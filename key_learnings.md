@@ -43,7 +43,7 @@ Clean → Explore → Analyze → Visualize → Validate → Communicate
 I’m grateful for this internship experience and excited to continue developing my skills in data analytics and business intelligence. 🙌
 
 🔗 Master Portfolio:
-[https://github.com/saicharan66l7/Saicharan-Data-Analyst-Internship-Portfolio]
+[https://github.com/saicharan66l7/Saicharan-DataAnalyst-Internship-Portfolio]
 
 💻 GitHub:
 https://github.com/saicharan66l7
