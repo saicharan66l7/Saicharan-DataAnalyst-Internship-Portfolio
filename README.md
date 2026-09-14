@@ -131,10 +131,8 @@ https://github.com/saicharan66l7
 
 [https://www.linkedin.com/in/saicharan-kallem-2036a8402/]
 
-# ApexPlanet Software Pvt Ltd
-
-  Data Analytics Internship
-
+ApexPlanet Software Pvt Ltd
+Data Analytics Internship
 # Thank you for visiting my portfolio.
 
 
