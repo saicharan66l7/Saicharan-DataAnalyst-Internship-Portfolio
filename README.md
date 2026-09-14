@@ -106,7 +106,7 @@ The internship helped me understand how analytics can support business decisions
 
 ## 🌐 Portfolio Website
 
-👉 **[View Live Portfolio](https://github.com/saicharan66l7/Saicharan-Data-Analyst-Internship-Portfolio)**
+👉 [View Live Portfolio](https://saicharan66l7.github.io/Saicharan-Data-Analyst-Internship-Portfolio/)
 
 ---
 
