@@ -38,7 +38,7 @@ Raw Data → Clean → Explore → Segment → Validate → Present
 | Task 2 | EDA & SQL Analysis                         | EDA visualizations + SQL business analysis + Excel dashboard | [🔗 Repo](https://github.com/saicharan66l7/APEXPLANET-TASK-2)                           |
 | Task 3 | Power BI Dashboard & Deep-Dive Analysis    | Interactive Power BI dashboard + DAX analysis                | [🔗 Repo](https://github.com/saicharan66l7/APEXPLANET-TASK-3)                           |
 | Task 4 | Data Storytelling & Statistical Validation | Professional presentation + 4 hypothesis tests               | [🔗 Repo](https://github.com/saicharan66l7/APEXPLANET-TASK-4)                           |
-| Task 5 | Portfolio Finalization                     | Master GitHub portfolio + portfolio website                  | [🔗 Repo](https://github.com/saicharan66l7/Saicharan-Data-Analyst-Internship-Portfolio) |
+| Task 5 | Portfolio Finalization                     | Master GitHub portfolio + portfolio website                  | [🔗 Repo](https://github.com/saicharan66l7/Saicharan-DataAnalyst-Internship-Portfolio) |
 
 
 
@@ -106,7 +106,7 @@ The internship helped me understand how analytics can support business decisions
 
 ## 🌐 Portfolio Website
 
-👉 [View Live Portfolio](https://saicharan66l7.github.io/Saicharan-Data-Analyst-Internship-Portfolio/)
+👉 [View Live Portfolio](https://saicharan66l7.github.io/Saicharan-DataAnalyst-Internship-Portfolio/)
 
 ---
 
